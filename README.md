@@ -12,6 +12,4 @@ Follow these 3 simple steps to start earning points!
 
 ## Demo:
 
-Don't want to register! No Worries! Here are some screenshots and videos for you:
-
-![alt text]file:///Users/kasiditouitayakul/Desktop/Screen%20Shot%202019-05-15%20at%207.45.00%20PM.png
+![alt text]
