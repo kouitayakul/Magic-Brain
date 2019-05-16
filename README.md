@@ -12,4 +12,17 @@ Follow these 3 simple steps to start earning points!
 
 ## Demo:
 
-![alt text]
+Here are some screenshots and videos of the web app:
+
+### Landing Page:
+
+<img src="Screen%20Shot%202019-05-15%20at%207.45.00%20PM.png" width="500" height="250">
+
+![](https://media.giphy.com/media/SXxCFtNdZkTiZRUsqV/giphy.gif)
+
+### Detecting Page:
+
+<img src=
+
+
+![](https://media.giphy.com/media/hQFfZWEwojp1zO9UKg/giphy.gif)
