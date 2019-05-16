@@ -22,7 +22,27 @@ Here are some screenshots and videos of the web app:
 
 ### Detecting Page:
 
-<img src=
-
+<img src="Screen%20Shot%202019-05-15%20at%208.10.11%20PM.png" width="500" height="250">
 
 ![](https://media.giphy.com/media/hQFfZWEwojp1zO9UKg/giphy.gif)
+
+## Tech/framework used:
+
+Built with:
+
+- React
+- HTML
+- CSS
+- Bootstrap
+- JavaScript
+- Node.js
+- Express.js
+- Particle.js
+- Tilt.js
+- Clarifai API
+- SQL
+- Heroku
+
+## Credits:
+
+Thanks to Udemy for providing the full stack web development course. The course allowed me to expand my skillset and improve my understanding in web development. I was able to learn about React and its libraries as well as how to construct a functional server using Express.js and Node.js. I also became experienced with creating queries using SQL and integrating other libraries such as Particle.js and Tilt.js for the user-friendliness of the web app.
